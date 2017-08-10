@@ -16,6 +16,85 @@
     </ul>
 </nav>
 <main>
+    <table style="width:100%">
+        <tr>
+            <th>Seat Type</th>
+            <th>Seat Option</th> 
+            <th>Seat Code</th>
+            <th>Mon - Tue (All Day) <br> Mon - Fri (1pm only) </th>
+            <th>Wed - Fri (after 1pm) <br> Sat - Sun (All Day)</th>
+        </tr>
+        <tr>
+            <td>Standard</td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>Standard</td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>Standard</td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+        </tr>
+        <tr>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>FirstClass</td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>FirstClass</td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+        </tr>
+        <tr>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>Beanbag</td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>Beanbag</td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>Beanbag</td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+        </tr>
+    </table>
 </main>
 <footer>
     © 2017 Alexandar Kotevski (s3646348) & Samuel Radford (s3661545)
