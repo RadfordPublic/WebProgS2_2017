@@ -4,6 +4,7 @@
     <meta charset="UTF-8">
     <title>Silverado - Now Showing</title>
     <link rel="stylesheet" href="style.css">
+    <link href="https://fonts.googleapis.com/css?family=Roboto" rel="stylesheet">
 </head>
 <body>
 <header>
@@ -16,10 +17,10 @@
     </ul>
 </nav>
 <main>
-    <table style="width:100%">
+    <table>
         <tr>
             <th>Seat Type</th>
-            <th>Seat Option</th> 
+            <th>Seat Option</th>
             <th>Seat Code</th>
             <th>Mon - Tue (All Day) <br> Mon - Fri (1pm only) </th>
             <th>Wed - Fri (after 1pm) <br> Sat - Sun (All Day)</th>
