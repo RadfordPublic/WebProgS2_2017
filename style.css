@@ -2,7 +2,12 @@ body {
     color: white;
     background: black;
     text-align: center;
-    font-family: "Helvetica", "Arial", sans-serif;
+    font-family: 'Roboto', sans-serif;
+}
+nav {
+    background: darkred;
+    padding: 10px;
+    font-family: 'Saira Semi Condensed', sans-serif;
 }
 ul {
     list-style-type: none;
@@ -11,20 +16,33 @@ ul {
 }
 li {
     display: inline;
+    padding: 10px;
 }
 li a {
     text-decoration: none;
-    color: lightblue;
+    color: white;
 }
 li a:hover {
-    color: lightskyblue;
-}
-footer {
-    position: fixed;
-    bottom: 0;
-    left: 0;
-    right: 0;
+    color: white;
 }
 h1 {
-    color: red;
+    color: darkred;
+}
+img {
+    width: 100%;
+    height: auto;
+}
+table {
+    width: 100%;
+}
+.movies {
+    padding: 10px;
+}
+.movie {
+    padding: 5px;
+}
+.banner {
+    background: red;
+    padding: 10px;
+    margin-top: 10px;
 }

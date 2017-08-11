@@ -5,6 +5,7 @@
     <title>Silverado - Now Showing</title>
     <link rel="stylesheet" href="style.css">
     <link href="https://fonts.googleapis.com/css?family=Roboto" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css?family=Saira+Semi+Condensed" rel="stylesheet">
 </head>
 <body>
 <header>
